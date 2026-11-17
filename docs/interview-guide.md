@@ -4,7 +4,7 @@
 
 “This is a historical retail analytics project using the full UCI Online Retail dataset. The goal was to explain which products and markets drive merchandise sales and how customers purchase again. The Python pipeline cleans and audits 541,909 lines, writes a SQLite database, and produces the dashboard's aggregates. I separated sales and customer populations because some purchases have no customer ID. I added transparent RFM segments, a cohort repeat-activity view, explicit treatment of the incomplete final month, and reconciliation checks across Python, SQL and the interface. The result supports questions and experiments; it does not claim profit or campaign uplift.”
 
-Use this only after you can run and explain the code. Describe AI assistance honestly if asked, and be clear about the choices and modifications you personally understand.
+Use this only after you can run and explain the code. Be clear about the choices and modifications you understand.
 
 ## Questions to prepare
 
