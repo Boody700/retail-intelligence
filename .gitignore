@@ -1,0 +1,13 @@
+data/*.zip
+data/*.sqlite
+__pycache__/
+.venv/
+node_modules/
+.sites-local/
+*.tmp
+
+.openai/
+.sites-local/
+.env
+.env.*
+!.env.example

@@ -1,0 +1,9 @@
+step,rows,excluded
+Source rows,541909.0,
+Exact duplicate rows,,5268.0
+Missing or invalid transaction fields,,0.0
+Cancelled invoices (C prefix),,9251.0
+Non-positive quantities,,1336.0
+Non-positive unit prices,,1176.0
+"Service, adjustment and gift-voucher codes",,2338.0
+Retained merchandise lines,522540.0,

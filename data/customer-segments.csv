@@ -1,0 +1,116 @@
+country,segment,customers,sales,median_recency,median_frequency
+Australia,At risk,1,68356,96.0,3.0
+Australia,Champions,2,12734519,20.5,13.0
+Australia,Hibernating,2,216286,250.5,2.0
+Australia,Loyal,3,827120,73.0,5.0
+Australia,Needs attention,1,80614,85.0,2.0
+Austria,At risk,1,44241,218.0,3.0
+Austria,Hibernating,4,233981,272.0,1.0
+Austria,Loyal,1,230206,53.0,3.0
+Austria,New & promising,3,311922,26.0,2.0
+Bahrain,Hibernating,2,54840,210.0,1.0
+Belgium,At risk,2,266221,152.5,4.5
+Belgium,Champions,6,1830437,12.0,8.5
+Belgium,Hibernating,5,137041,288.0,1.0
+Belgium,Loyal,5,749160,33.0,5.0
+Belgium,Needs attention,4,555000,69.0,2.0
+Belgium,New & promising,1,68219,18.0,2.0
+Brazil,Hibernating,1,114360,239.0,1.0
+Canada,Hibernating,4,311544,186.0,1.0
+Channel Islands,At risk,1,236296,109.0,3.0
+Channel Islands,Hibernating,4,512006,251.5,1.0
+Channel Islands,Loyal,3,1062358,34.0,4.0
+Channel Islands,Needs attention,1,189094,82.0,2.0
+Cyprus,Hibernating,2,47574,299.0,1.0
+Cyprus,Loyal,3,1177520,58.0,4.0
+Cyprus,Needs attention,1,60039,64.0,1.0
+Cyprus,New & promising,1,43966,22.0,1.0
+Czech Republic,Needs attention,1,78674,64.0,2.0
+Denmark,Champions,1,338840,10.0,4.0
+Denmark,Loyal,2,233892,73.5,3.0
+Denmark,Needs attention,4,965088,62.0,2.0
+Denmark,New & promising,2,356620,14.0,1.5
+EIRE,At risk,1,429121,162.0,4.0
+EIRE,Champions,2,25272191,6.0,126.0
+European Community,At risk,1,115925,142.0,3.0
+Finland,Champions,3,1253798,9.0,8.0
+Finland,Hibernating,2,174175,194.0,1.5
+Finland,Loyal,1,143724,76.0,4.0
+Finland,Needs attention,3,111553,58.0,1.0
+Finland,New & promising,3,151238,10.0,2.0
+France,At risk,2,342374,119.0,4.5
+France,Champions,22,11747248,10.0,7.0
+France,Hibernating,24,944760,273.5,1.0
+France,Loyal,20,4120852,29.5,4.0
+France,Needs attention,10,770479,62.0,1.0
+France,New & promising,9,454481,26.0,2.0
+Germany,At risk,4,279150,118.0,3.5
+Germany,Champions,26,13654652,16.5,10.0
+Germany,Hibernating,21,2365154,212.0,1.0
+Germany,Loyal,17,2649320,40.0,3.0
+Germany,Needs attention,12,711515,73.5,1.0
+Germany,New & promising,14,878324,18.0,2.0
+Greece,Hibernating,3,387953,281.0,1.0
+Greece,New & promising,1,54599,4.0,1.0
+Iceland,Champions,1,431000,3.0,7.0
+Israel,Hibernating,2,708366,131.5,1.5
+Israel,Needs attention,1,13218,67.0,2.0
+Italy,Champions,2,400169,13.5,6.5
+Italy,Hibernating,4,203703,336.0,1.0
+Italy,Loyal,1,320822,38.0,9.0
+Italy,Needs attention,2,151114,46.5,1.0
+Italy,New & promising,5,506216,19.0,1.0
+Japan,At risk,1,301074,236.0,3.0
+Japan,Champions,2,2840643,17.0,4.5
+Japan,Hibernating,3,565748,211.0,2.0
+Japan,Needs attention,2,34172,66.0,1.0
+Lebanon,Hibernating,1,169388,317.0,1.0
+Lithuania,At risk,1,166106,367.0,4.0
+Malta,Hibernating,1,90550,117.0,1.0
+Malta,Loyal,1,116509,23.0,4.0
+Netherlands,Champions,1,27913802,2.0,72.0
+Netherlands,Hibernating,3,87010,193.0,1.0
+Netherlands,Loyal,4,380437,19.0,4.0
+Netherlands,Needs attention,1,7685,66.0,1.0
+Norway,Champions,2,1746133,11.5,6.0
+Norway,Hibernating,2,72341,205.5,1.0
+Norway,Loyal,3,721987,37.0,4.0
+Norway,Needs attention,2,458318,63.0,1.0
+Norway,New & promising,1,246685,15.0,2.0
+Poland,Hibernating,4,167746,115.5,1.5
+Poland,Loyal,2,529719,37.0,6.5
+Portugal,Champions,4,1506073,10.5,6.0
+Portugal,Hibernating,7,494375,262.0,1.0
+Portugal,Loyal,2,175152,20.0,3.5
+Portugal,Needs attention,3,239008,60.0,1.0
+Portugal,New & promising,3,249782,16.0,1.0
+RSA,Needs attention,1,100231,58.0,1.0
+Saudi Arabia,Hibernating,1,14592,289.0,1.0
+Singapore,Loyal,1,912039,57.0,4.0
+Spain,At risk,2,404868,115.5,4.0
+Spain,Champions,4,3233477,20.0,4.5
+Spain,Hibernating,6,247885,182.5,1.5
+Spain,Loyal,5,871382,30.0,4.0
+Spain,Needs attention,8,793904,51.5,1.5
+Spain,New & promising,4,152300,21.0,1.0
+Sweden,Champions,2,3369280,11.5,10.5
+Sweden,Hibernating,3,77536,116.0,1.0
+Sweden,Loyal,2,184898,27.0,4.5
+Sweden,Needs attention,1,51169,34.0,1.0
+Switzerland,At risk,1,126984,137.0,3.0
+Switzerland,Champions,1,899552,11.0,5.0
+Switzerland,Hibernating,7,922448,276.0,1.0
+Switzerland,Loyal,4,2027169,66.0,3.5
+Switzerland,Needs attention,4,995869,53.0,1.0
+Switzerland,New & promising,2,77384,23.0,1.5
+USA,Hibernating,1,38395,235.0,1.0
+USA,Needs attention,1,157951,61.0,1.0
+USA,New & promising,2,161693,6.5,1.5
+United Arab Emirates,Hibernating,2,186478,199.5,1.0
+United Kingdom,At risk,260,41794612,140.0,4.0
+United Kingdom,Champions,610,419309952,9.0,10.0
+United Kingdom,Hibernating,1046,47283499,226.0,1.0
+United Kingdom,Loyal,949,148481756,32.0,4.0
+United Kingdom,Needs attention,635,31771745,58.0,1.0
+United Kingdom,New & promising,416,35643968,17.0,2.0
+Unspecified,Hibernating,4,266077,122.5,2.0

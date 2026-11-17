@@ -1,0 +1,55 @@
+{
+  "source_rows": 541909,
+  "retained_rows": 522540,
+  "audit": [
+    {
+      "step": "Source rows",
+      "rows": 541909
+    },
+    {
+      "step": "Exact duplicate rows",
+      "excluded": 5268
+    },
+    {
+      "step": "Missing or invalid transaction fields",
+      "excluded": 0
+    },
+    {
+      "step": "Cancelled invoices (C prefix)",
+      "excluded": 9251
+    },
+    {
+      "step": "Non-positive quantities",
+      "excluded": 1336
+    },
+    {
+      "step": "Non-positive unit prices",
+      "excluded": 1176
+    },
+    {
+      "step": "Service, adjustment and gift-voucher codes",
+      "excluded": 2338
+    },
+    {
+      "step": "Retained merchandise lines",
+      "rows": 522540
+    }
+  ],
+  "missing_customer_rows": 131387,
+  "identified_sales": 873722764,
+  "sales": 1024721932,
+  "orders": 19773,
+  "customers": 4334,
+  "repeat_customers": 2829,
+  "units": 5561387,
+  "countries": 38,
+  "source_sha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+  "start": "2010-12-01T08:26:00",
+  "end": "2011-12-09T12:50:00",
+  "reference": "2011-12-10",
+  "partial_month": "2011-12",
+  "high_value_threshold_pence": 163163,
+  "uk_sales_share": 0.851396,
+  "best_complete_month": "2011-11",
+  "best_complete_month_sales": 145211598
+}

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="An end-to-end retail analytics case study: real transaction data, customer segmentation, cohort retention and an auditable Python pipeline.">
+  <meta name="theme-color" content="#142d2c"><title>Retail Intelligence — Customer & Sales Analytics</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css">
+  <script src="data.js" defer></script><script src="app.js" defer></script>
+<meta property="og:title" content="Retail Intelligence — Customer & Sales Analytics"><meta property="og:description" content="An end-to-end retail analytics case study: real transaction data, customer segmentation, cohort retention and an auditable Python pipeline."><meta property="og:type" content="website"><script src="navigation.js" defer></script></head>
+<body>
+<a class="skip" href="#main">Skip to dashboard</a>
+<aside class="sidebar">
+  <a class="brand" href="#overview" aria-label="Retail Intelligence home"><span class="brand-icon">ri<span>↗</span></span><span>retail<br><strong>intelligence.</strong></span></a>
+  <div class="side-label">WORKSPACE</div>
+  <nav aria-label="Dashboard pages">
+    <a href="#overview" data-page="overview"><span aria-hidden="true">◫</span> Overview</a>
+    <a href="#customers" data-page="customers"><span aria-hidden="true">◎</span> Customers</a>
+    <a href="#products" data-page="products"><span aria-hidden="true">▧</span> Products</a>
+    <a href="#methodology" data-page="methodology"><span aria-hidden="true">≡</span> Methodology</a>
+  </nav>
+  <div class="side-bottom"><span class="live-dot"></span> Historical data, real insights<p>UCI Online Retail<br>December 2010 – December 2011</p><span class="side-pill">PORTFOLIO PROJECT / 01</span></div>
+</aside>
+<div class="workspace">
+  <header class="topbar"><div><span class="breadcrumb">Workspace</span><span class="slash">/</span><span id="crumb">Overview</span></div><div class="top-right"><span class="dataset-tag"><span class="live-dot"></span> Full dataset</span><span class="avatar" aria-label="Retail Intelligence">RI</span></div></header>
+  <main id="main" tabindex="-1">
+    <section class="page-heading"><div><div class="eyebrow">THE RETAIL INTELLIGENCE PROJECT</div><h1 id="page-title">A clearer view of your business.</h1><p id="page-subtitle">From individual transactions to the bigger picture.</p></div><button class="button" id="export"><span aria-hidden="true">↓</span> Export data</button></section>
+    <p id="view-status" class="sr-only" role="status" aria-live="polite"></p>
+    <div id="content"><p class="loading" role="status">Loading the retail analysis…</p></div>
+    <footer><span>Retail Intelligence <span class="footer-dot">·</span> Built on real data. Designed for better questions.</span><a href="https://archive.ics.uci.edu/dataset/352/online%2Bretail" target="_blank" rel="noopener">Dataset: D. Chen / UCI ↗</a></footer>
+  </main>
+</div>
+<div class="toast" role="status" aria-live="polite" id="toast"></div>
+<noscript>This dashboard requires JavaScript. Read the project README and findings report for the analysis.</noscript>
+</body></html>
